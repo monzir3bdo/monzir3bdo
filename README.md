@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 ## 💜 Views and Followers:
 
 <a href="https://github.com/monzir3bdo/github-profile-views-counter">
-    <img src="![](https://komarev.com/ghpvc/?username=monzir3bdo>
+    <img src="https://komarev.com/ghpvc/?username=monzir3bdo&style=for-the-badge">
 </a>
 <a href="https://github.com/monzir3bdo?tab=followers"><img src="https://img.shields.io/github/followers/monzir3bdo?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
