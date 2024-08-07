@@ -49,9 +49,7 @@ Here are some ideas to get you started:
 ## 📊 My Stats:
 
 <p align="center">
-    <a href="https://github.com/monzir3bdo/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Monzirs's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=monzir3bdo&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=monzir3bdo&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 <a href="https://github.com/monzir3bdo/github-readme-stats"><img alt="Monzir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=monzir3bdo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/monzir3bdo/github-readme-stats"><img alt="Monzir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monzir3bdo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
