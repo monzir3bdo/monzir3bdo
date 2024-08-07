@@ -85,9 +85,9 @@ Here are some ideas to get you started:
 ## 💜 Views and Followers:
 
 <a href="https://github.com/monzir3bdo/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AmmarAgeeza">
+    <img src="https://komarev.com/ghpvc/?username=monzir3bdo>
 </a>
-<a href="https://github.com/monzir3bdo?tab=followers"><img src="https://img.shields.io/github/followers/AmmarAgeeza?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/monzir3bdo?tab=followers"><img src="https://img.shields.io/github/followers/monzir3bdo?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
 </h3>
