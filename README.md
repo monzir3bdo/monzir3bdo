@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ## 🚀 Languages and Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,javascript,html,css,nodejs,expressjs,mongodb" />
-    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,xd, figma,postman,linux,git" /><br>
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode, figma,postman,linux,git" /><br>
 </div>
 
 <br>
