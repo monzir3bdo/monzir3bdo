@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱**.
+- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱**
 
-- 🌱 I’m currently learning **Advanced Flutter, Node JS**.
+- 🌱 I’m currently learning **Advanced Flutter, Node JS**
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/monzir3bdo?page=1&tab=repositories)**.
 
